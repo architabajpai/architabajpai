@@ -90,21 +90,6 @@ Real-time multilingual chat with AI-driven conversations and mobile-first respon
 Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 - **Tech**: Python, Machine Learning, Data Analytics
 
----
-
-## GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=architabajpai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architabajpai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=architabajpai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
----
 
 ## Certifications (few of many)
 
@@ -132,7 +117,6 @@ I'm always excited to collaborate on innovative AI/ML projects or discuss tech! 
 
 - Email: architabajpai07@gmail.com
 - LinkedIn: [Archita Bajpai](https://linkedin.com/in/archita-bajpai)
-- Phone: +91-7505869362
 
 ---
 
