@@ -5,6 +5,7 @@
   **AI/ML Engineer | Full Stack Developer | Building Intelligent Solutions**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archita-bajpai)
+  [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architabajpai/Resume/blob/main/RESUME_1_.pdf)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architabajpai07@gmail.com)
   
 </div>
