@@ -106,7 +106,7 @@ Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 
 ---
 
-## 🏆 Certifications (few of many)
+## Certifications (few of many)
 
 - **OCI Certified Generative AI Professional** - Oracle (2025)
 - **OCI Certified Data Science Professional** - Oracle (2025)
