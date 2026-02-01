@@ -1,4 +1,4 @@
-# Hi there, I'm Archita! 
+# Hi there, I'm Archita!
 
 <div align="center">
   
@@ -96,11 +96,11 @@ Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=architabajpai&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=architabajpai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=architabajpai&layout=compact&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architabajpai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=architabajpai&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=architabajpai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -138,8 +138,6 @@ I'm always excited to collaborate on innovative AI/ML projects or discuss tech! 
 
 <div align="center">
   
-  **"Building intelligent solutions, one line of code at a time."** ✨
-  
-  ![Visitor Count](https://profile-counter.glitch.me/architabajpai/count.svg)
+  **"Building intelligent solutions, one line of code at a time. ✨"** 
   
 </div>
