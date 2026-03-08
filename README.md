@@ -5,7 +5,7 @@
   **AI/ML Engineer | Full Stack Developer | Building Intelligent Solutions**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archita-bajpai)
-  [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architabajpai/Resume/blob/main/RESUME_1_.pdf)
+  [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architabajpai/Resume/blob/main/ArchitaRes%20(2).pdf)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architabajpai07@gmail.com)
   
 </div>
@@ -21,6 +21,7 @@ I'm a Computer Science student at **VIT Bhopal** (CGPA: 8.91/10) specializing in
 - Interested in applying **Responsible AI** to transform large-scale operations
 - 2025 Goals: Contribute more to open source, master MLOps, and build impactful AI products
 - **Top 8% finalist** at CodeVerse Hackathon (Top 50/600+) | **Finalist** at Serve-Smart Hackathon (IIT BHU)
+- **Top 4 team** in SanDisk Hackathon- AI/ML Track (VIT Vellore)
 
 ---
 
