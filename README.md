@@ -19,7 +19,7 @@ I'm a Computer Science student at **VIT Bhopal** (CGPA: 8.91/10) specializing in
 - Currently working on **AI-powered recipe generator** (using pantry ingredients) and **AI-based financial sentiment analyzer**
 - Learning: **Agentic AI**, **Advanced NLP**, **DSA**, and **Java**
 - Interested in applying **Responsible AI** to transform large-scale operations
-- 2025 Goals: Contribute more to open source, master MLOps, and build impactful AI products
+- 2026 Goals: Contribute more to open source, master MLOps, and build impactful AI products
 - **Top 8% finalist** at CodeVerse Hackathon (Top 50/600+) | **Finalist** at Serve-Smart Hackathon (IIT BHU)
 - **Top 4 team** in SanDisk Hackathon- AI/ML Track (VIT Vellore)
 
