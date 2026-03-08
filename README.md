@@ -74,20 +74,20 @@ I'm a Computer Science student at **VIT Bhopal** (CGPA: 8.91/10) specializing in
 
 ## Featured Projects
 
-### [StraySafe – AI Risk Prioritization](https://github.com/architabajpai)
+### [StraySafe – AI Risk Prioritization](https://github.com/architabajpai/StraySafe)
 AI-driven risk model with **ROC-AUC 0.86**, automating case triage and reducing manual coordination time by ~40%
 - **Tech**: Python, Machine Learning, Model Deployment
 
-### [Dental Disease Prediction](https://github.com/architabajpai)
+### [Dental Disease Prediction](https://github.com/architabajpai/dental_disease_prediction)
 Transfer-learning image classifier achieving **F1 = 0.81** with FastAPI inference service
 - **Tech**: Python, ML, FastAPI, Computer Vision
 - **Performance**: <80ms latency for real-time predictions
 
-### [EduSaarthi – AI Multilingual Chat Platform](https://github.com/architabajpai)
+### [EduSaarthi – AI Multilingual Chat Platform](https://github.com/architabajpai/EduSaarthi)
 Real-time multilingual chat with AI-driven conversations and mobile-first responsive UI
 - **Tech**: Next.js, TypeScript, OpenAI API, Supabase
 
-### [Multiple Disease Prediction System](https://github.com/architabajpai)
+### [Multiple Disease Prediction System](https://github.com/architabajpai/Multiple_disease_prediction)
 Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 - **Tech**: Python, Machine Learning, Data Analytics
 
@@ -116,7 +116,7 @@ Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 
 I'm always excited to collaborate on innovative AI/ML projects or discuss tech! Feel free to reach out:
 
-- Email: architabajpai07@gmail.com
+- Email: archita777@gmail.com
 - LinkedIn: [Archita Bajpai](https://linkedin.com/in/archita-bajpai)
 
 ---
