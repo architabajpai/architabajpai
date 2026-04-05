@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archita-bajpai-b373952a1/)
   [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architabajpai/Resume/blob/main/ArchitaRes%20(2).pdf)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:architabajpai07@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archita777@gmail.com)
   
 </div>
 
@@ -16,7 +16,6 @@
 
 I'm a Computer Science student at **VIT Bhopal** (CGPA: 8.91/10) specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building end-to-end ML solutions that solve real-world problems and improve operational efficiency.
 
-- Currently working on **AI-powered recipe generator** (using pantry ingredients) and **AI-based financial sentiment analyzer**
 - Learning: **Agentic AI**, **Advanced NLP**, **DSA**, and **Java**
 - Interested in applying **Responsible AI** to transform large-scale operations
 - 2026 Goals: Contribute more to open source, master MLOps, and build impactful AI products
