@@ -74,6 +74,10 @@ I'm a Computer Science student at **VIT Bhopal** (CGPA: 9.06/10) specializing in
 
 ## Featured Projects
 
+### [ChefGPT: AI Powered Recipe Generator Based on Your Pantry](https://github.com/architabajpai/ChefGPT)
+AI-powered recipe recommendation system that helps users transform ingredients already available in their pantry into delicious, personalized meals.
+- **Tech**: Python, Streamlit, API integration, PDF generation (ReoprtLab), Supabase db, Streamlit Depolyment
+
 ### [StraySafe – AI Risk Prioritization](https://github.com/architabajpai/StraySafe)
 AI-driven risk model with **ROC-AUC 0.86**, automating case triage and reducing manual coordination time by ~40%
 - **Tech**: Python, Machine Learning, Model Deployment
