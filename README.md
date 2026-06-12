@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Computer Science student at **VIT Bhopal** (CGPA: 8.91/10) specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building end-to-end ML solutions that solve real-world problems and improve operational efficiency.
+I'm a Computer Science student at **VIT Bhopal** (CGPA: 9.06/10) specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building end-to-end ML solutions that solve real-world problems and improve operational efficiency.
 
 - Learning: **Agentic AI**, **Advanced NLP**, **DSA**, and **Java**
 - Interested in applying **Responsible AI** to transform large-scale operations
