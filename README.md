@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archita-bajpai-b373952a1/)
   [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/architabajpai/Resume/blob/main/UpdatedResume_June.pdf)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archita777@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:777archita@gmail.com)
   
 </div>
 
@@ -120,7 +120,7 @@ Multi-class ML model on 10k+ records achieving **F1 = 0.84** (+9% over baseline)
 
 I'm always excited to collaborate on innovative AI/ML projects or discuss tech! Feel free to reach out:
 
-- Email: archita777@gmail.com
+- Email: 777archita@gmail.com
 - LinkedIn: [Archita Bajpai](https://www.linkedin.com/in/archita-bajpai-b373952a1/)
 
 ---
